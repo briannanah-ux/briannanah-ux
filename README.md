@@ -1,7 +1,7 @@
 # Brian Nana
-### Electronic Engineer | Embedded Systems | Software Development | Renewable Energy
+### Electronic & Electrical Engineer | Embedded Systems | Software Development | Renewable Energy
 
-I am an Electronic Engineer with an MSc in Renewable Energy Systems Technology from Loughborough University and a BEng (Hons) in Electronic Engineering.
+I am an Electronic & Electrical Engineer with an MSc in Renewable Energy Systems Technology from Loughborough University and a BEng (Hons) in Electronic Engineering.
 
 My technical interests span embedded systems, electronic instrumentation, battery energy storage, renewable energy integration and software development. I enjoy working across hardware and software, combining engineering principles, programming and data analysis to develop practical technical solutions.
 
